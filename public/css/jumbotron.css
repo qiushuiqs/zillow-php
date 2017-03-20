@@ -1,0 +1,20 @@
+.navbar-form{
+    width: 80% !important;
+}
+
+.inlineBar{
+    width: 80%;
+}
+
+#addressBar{
+    width: 100%;
+}
+
+.header {
+    padding-top: 100px;
+}
+
+.thumbnail {
+    width: 200px;
+    height: 200px;
+}
